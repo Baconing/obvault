@@ -18,7 +18,7 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] APGOV: Test Studying
+- [ ] [[APGOV  Test Studying]] ^iqmamy
 - [ ] SD125: Resume
 
 

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Untitled Space Game\"  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.509728978457262,
+  "repelStrength": 10.0833912439194,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7265251965067697,
-  "close": false
+  "linkDistance": 178,
+  "scale": 1.2899317952150908,
+  "close": true
 }

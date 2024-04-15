@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "516c47f5cd0ca3f7",
+        "id": "fe55f45559c21b70",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd851811fe7b1eb",
+            "id": "65b3323e337563a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Heatmap.md",
+                "file": "Journal/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Heatmap.md",
+                "file": "Journal/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Heatmap.md",
+                "file": "Journal/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Heatmap.md"
+                "file": "Journal/Template.md"
               }
             }
           },
@@ -182,24 +182,25 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dcd851811fe7b1eb",
+  "active": "65b3323e337563a9",
   "lastOpenFiles": [
-    "School/Work.md",
+    "Journal/Heatmap.md",
     "Journal/2024/2024-04-15.md",
-    "Excalidraw/Drawing 2024-04-15 10.11.50.excalidraw.md",
-    "Excalidraw",
+    "Untitled Space Game/Story/Act 1.md",
+    "Untitled Space Game/Story/Prologue.md",
+    "Untitled Space Game/Gameplay/Survival.md",
+    "School/AP Gov/APGOV  Test Studying.md",
+    "School/Work.md",
     "School/AP Gov/AP Test - Study Plan.md",
-    "Journal/2024/2024-01-01.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Journal/Template.md",
+    "Excalidraw/Drawing 2024-04-15 10.11.50.excalidraw.md",
+    "Excalidraw",
+    "Journal/2024/2024-01-01.md",
     "yesterday's journal.md",
-    "Journal/Heatmap.md",
     "Journal/2024",
-    "Untitled Space Game/Story/Prologue.md",
     "Journal",
-    "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Graphics",
-    "Untitled Space Game/Story/Act 1.md",
     "Untitled Space Game/Story/Untitled.canvas",
     "Untitled.canvas",
     "Untitled Space Game/Gameplay",
