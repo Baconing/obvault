@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:School  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "path:SyncedHost  ",
       "color": {
         "a": 1,
@@ -40,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"School/AP Gov\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:School  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10.0833912439194,
   "linkStrength": 1,
   "linkDistance": 178,
-  "scale": 0.7926917087348934,
+  "scale": 0.9472587686901782,
   "close": true
 }
