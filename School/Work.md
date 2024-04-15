@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] SD125: ME Presentation
 - [ ] SD125: ME Essay
+- [ ] SD125: Journal
 - [ ] APGOV: Unit 5 Review
 - [ ] APGOV: Ch 8 Notes
 - [ ] APGOV: Ch 7 Notes
@@ -18,6 +19,7 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] APGOV: Test Studying
+- [ ] SD125: Resume
 
 
 ## Done
@@ -28,7 +30,6 @@ kanban-plugin: basic
 ## Overdue
 
 - [ ] APCSA: 10.02 Real-World Recursion
-- [ ] SD125: Resume
 - [ ] English: Book Trailer
 
 
