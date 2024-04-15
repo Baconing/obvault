@@ -31,6 +31,12 @@
         "icon": "SiMinecraft",
         "for": "everything",
         "order": 3
+      },
+      {
+        "rule": "SyncedHost",
+        "icon": "OcServer16",
+        "for": "everything",
+        "order": 4
       }
     ],
     "extraMargin": {

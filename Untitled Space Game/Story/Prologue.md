@@ -1,4 +1,3 @@
-
 Game launches to black.
 This message fades in.
 
