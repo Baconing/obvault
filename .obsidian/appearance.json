@@ -2,9 +2,9 @@
   "accentColor": "#e3bf64",
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
-  "textFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSize": 14,
   "baseFontSizeAction": true,
   "nativeMenus": false

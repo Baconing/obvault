@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }
