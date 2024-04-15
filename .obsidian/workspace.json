@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024/2024-04-15.md"
+                "file": "Excalidraw/Drawing 2024-04-15 10.11.50.excalidraw.md"
               }
             }
           },
@@ -182,11 +180,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dcd851811fe7b1eb",
+  "active": "6a80b9b1fa05bd76",
   "lastOpenFiles": [
+    "Journal/2024/2024-04-15.md",
+    "Excalidraw/Drawing 2024-04-15 10.11.50.excalidraw.md",
+    "Excalidraw",
     "School/Work.md",
     "School/AP Gov/AP Test - Study Plan.md",
-    "Journal/2024/2024-04-15.md",
     "Journal/2024/2024-01-01.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Journal/Template.md",
