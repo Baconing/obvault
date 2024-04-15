@@ -8,5 +8,7 @@
   "obsidian-kanban",
   "templater-obsidian",
   "heatmap-calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-emoji-toolbar",
+  "floating-highlights"
 ]
