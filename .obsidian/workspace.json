@@ -11,8 +11,12 @@
             "id": "d1adfca22d70438f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Space Game/Gameplay/Survival.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled Space Game/Gameplay/Survival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled Space Game/Gameplay/Survival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled Space Game/Gameplay/Survival.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "d1adfca22d70438f",
   "lastOpenFiles": [
+    "Untitled Space Game/Gameplay/Survival.md",
+    "Untitled Space Game/Graphics",
     "Untitled Space Game/Story/Act 1.md",
     "Untitled Space Game/Story/Prologue.md",
     "Untitled Space Game/Story/Untitled.canvas",
