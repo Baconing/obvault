@@ -11,6 +11,14 @@
             "id": "ca6d7cb9fd93eb90",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad1f53adba03a512",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Journal/2024/2024-04-15.md",
@@ -18,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c15d297b671fffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/2024-04-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +202,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca6d7cb9fd93eb90",
+  "active": "ad1f53adba03a512",
   "lastOpenFiles": [
     "Journal/Template.md",
     "Journal/2024/2024-04-15.md",
+    "Journal/2024/2024-04-16.md",
+    "Journal/2024/2024-04-14.md",
     "Journal/Heatmap.md",
     "School/AP Gov/APGOV  Test Studying.md",
     "School/Work.md",

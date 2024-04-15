@@ -3,8 +3,7 @@ created: <% tp.file.creation_date() %>
 ---
 tags:: [[+Daily Notes]]
 
-<< [[<% tp.date.yesterday("YYYY-MM-DD") %>]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>]] >>
-
+<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
 ---
 ### 📅 Daily Questions
 ##### 🌜 Last night, after work, I...
