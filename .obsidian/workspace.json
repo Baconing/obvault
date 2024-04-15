@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2024/2024-04-15.md",
+                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024/2024-04-15.md",
+                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024/2024-04-15.md",
+                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024/2024-04-15.md"
+                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md"
               }
             }
           },
@@ -191,9 +192,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ad1f53adba03a512",
+  "active": "54dc5d8c014bea0e",
   "lastOpenFiles": [
+    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "School/Work.md",
+    "School/AP Gov/APGOV  Test Studying.md",
+    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+    "School/AP Gov/Chapter Notes/Untitled.md",
+    "Untitled Space Game/Gameplay/Core Loop.md",
+    "Untitled Space Game/Gameplay/Survival.md",
+    "Untitled Space Game/Story/Prologue.md",
+    "Untitled Space Game/Story/Act 1.md",
+    "School/AP Gov/Chapter Notes",
     "Journal/2024/2024-04-15.md",
     "Journal/2024/2024-04-16.md",
     "Journal/Heatmap.md",
@@ -201,11 +211,6 @@
     "Templates/Journal.md",
     "Templates/Journal.md",
     "Templates",
-    "School/AP Gov/APGOV  Test Studying.md",
-    "Untitled Space Game/Gameplay/Core Loop.md",
-    "Untitled Space Game/Gameplay/Survival.md",
-    "Untitled Space Game/Story/Act 1.md",
-    "Untitled Space Game/Story/Prologue.md",
     "StarCrunch",
     "SyncedHost",
     "Recording 20240415103105.webm",
@@ -220,7 +225,6 @@
     "Untitled Space Game/Story/Untitled.canvas",
     "Untitled.canvas",
     "Untitled Space Game/Gameplay",
-    "Untitled Space Game/Story",
     "Untitled Space Game/Story.md",
     "Canobal Labs Plan.md"
   ]
