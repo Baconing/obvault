@@ -1,0 +1,3 @@
+```
+Two ingame days pass.
+```

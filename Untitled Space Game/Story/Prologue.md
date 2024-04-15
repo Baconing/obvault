@@ -15,6 +15,5 @@ The ship drifts.
 
 ```
 Fade to game.
-
-Two ingame days pass.
 ```
+[[Act 1]]

@@ -11,12 +11,8 @@
             "id": "d1adfca22d70438f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled Space Game/Story/Prologue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Space Game/Story/Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Space Game/Story/Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Space Game/Story/Prologue.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a80b9b1fa05bd76",
+  "active": "d1adfca22d70438f",
   "lastOpenFiles": [
-    "Untitled Space Game/Gameplay",
+    "Untitled Space Game/Story/Act 1.md",
     "Untitled Space Game/Story/Prologue.md",
+    "Untitled Space Game/Story/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled Space Game/Gameplay",
     "Untitled Space Game/Story",
     "Untitled Space Game/Story.md",
     "Canobal Labs Plan.md",
