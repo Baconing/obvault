@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Template.md",
+                "file": "Journal/2024/2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Template.md",
+                "file": "Journal/2024/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Template.md",
+                "file": "Journal/2024/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Template.md"
+                "file": "Journal/2024/2024-04-15.md"
               }
             }
           },
@@ -184,16 +184,16 @@
   },
   "active": "65b3323e337563a9",
   "lastOpenFiles": [
-    "Journal/Heatmap.md",
     "Journal/2024/2024-04-15.md",
+    "Journal/Template.md",
+    "School/Work.md",
+    "School/AP Gov/APGOV  Test Studying.md",
+    "Journal/Heatmap.md",
     "Untitled Space Game/Story/Act 1.md",
     "Untitled Space Game/Story/Prologue.md",
     "Untitled Space Game/Gameplay/Survival.md",
-    "School/AP Gov/APGOV  Test Studying.md",
-    "School/Work.md",
     "School/AP Gov/AP Test - Study Plan.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
-    "Journal/Template.md",
     "Excalidraw/Drawing 2024-04-15 10.11.50.excalidraw.md",
     "Excalidraw",
     "Journal/2024/2024-01-01.md",

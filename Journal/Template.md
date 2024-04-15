@@ -4,4 +4,10 @@ tasksLeft: 1
 excercised: 
 intended: true
 ---
+#### Tasks Completed
+- 
 
+#### Tasks Uncompleted
+- 
+
+#### Reflection
