@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5127471093d64489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled Space Game/Gameplay/Survival.md",
+            "file": "Core Loop.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled Space Game/Gameplay/Survival.md",
+            "file": "Core Loop.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled Space Game/Gameplay/Survival.md"
+            "file": "Core Loop.md"
           }
         }
       }
@@ -131,11 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1c45419e4ed7d5",
+  "active": "5127471093d64489",
   "lastOpenFiles": [
+    "Untitled Space Game/Gameplay/Survival.md",
+    "Core Loop.md",
     "Untitled Space Game",
     "Untitled Space Game/Gameplay",
-    "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Story/Prologue.md",
     "Untitled Space Game/Story/Act 1.md",
     "Untitled Space Game/Story"

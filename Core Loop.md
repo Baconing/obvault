@@ -1,0 +1,1 @@
+Core gameplay loop will be doing your day to day life, and during Act 1, you 

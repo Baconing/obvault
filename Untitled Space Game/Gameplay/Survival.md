@@ -8,4 +8,3 @@ When it gets low, you can hear your stomach growl, can be used to unintentionall
 
 ## Energy
 When it gets low you can see hallucinations.
-
