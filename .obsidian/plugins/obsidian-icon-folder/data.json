@@ -10,9 +10,21 @@
     "rules": [
       {
         "rule": "Journal",
-        "icon": "📓",
+        "icon": "IbPencil",
         "for": "everything",
         "order": 0
+      },
+      {
+        "rule": "2024*",
+        "icon": "IbCalendar",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "School",
+        "icon": "🤓",
+        "for": "everything",
+        "order": 2
       }
     ],
     "extraMargin": {
