@@ -11,6 +11,8 @@ kanban-plugin: basic
 - [ ] APGOV: Unit 5 Review
 - [ ] APGOV: Ch 8 Notes
 - [ ] APGOV: Ch 7 Notes
+- [ ] CIS105: Module Assignment
+- [ ] CIS105: Module Quiz
 
 
 ## Doing
