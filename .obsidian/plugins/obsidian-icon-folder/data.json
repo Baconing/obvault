@@ -25,6 +25,12 @@
         "icon": "🤓",
         "for": "everything",
         "order": 2
+      },
+      {
+        "rule": "StarCrunch",
+        "icon": "SiMinecraft",
+        "for": "everything",
+        "order": 3
       }
     ],
     "extraMargin": {
