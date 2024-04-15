@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eb8e390fdbc27f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/AP Gov/AP Test - Study Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Core Loop.md",
+            "file": "School/AP Gov/AP Test - Study Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Core Loop.md",
+            "file": "School/AP Gov/AP Test - Study Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Core Loop.md"
+            "file": "School/AP Gov/AP Test - Study Plan.md"
           }
         }
       }
@@ -144,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5127471093d64489",
+  "active": "9eb8e390fdbc27f4",
   "lastOpenFiles": [
-    "Untitled Space Game/Gameplay/Survival.md",
+    "School/AP Gov",
     "Core Loop.md",
+    "School/AP Gov/AP Test - Study Plan.md",
+    "School",
+    "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game",
     "Untitled Space Game/Gameplay",
     "Untitled Space Game/Story/Prologue.md",
