@@ -26,18 +26,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c15d297b671fffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/2024-04-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -183,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +193,15 @@
   },
   "active": "ad1f53adba03a512",
   "lastOpenFiles": [
-    "Journal/2024/2024-04-16.md",
-    "Journal/2024/2024-04-15.md",
-    "Journal/2024/2024-04-14.md",
-    "Journal/Template.md",
-    "Journal/Heatmap.md",
-    "School/AP Gov/APGOV  Test Studying.md",
     "School/Work.md",
+    "Journal/2024/2024-04-15.md",
+    "Journal/2024/2024-04-16.md",
+    "Journal/Heatmap.md",
+    "Journal/2024/2024-04-14.md",
+    "Templates/Journal.md",
+    "Templates/Journal.md",
+    "Templates",
+    "School/AP Gov/APGOV  Test Studying.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Story/Act 1.md",
@@ -231,7 +222,6 @@
     "Untitled Space Game/Gameplay",
     "Untitled Space Game/Story",
     "Untitled Space Game/Story.md",
-    "Canobal Labs Plan.md",
-    "Untitled Space Game"
+    "Canobal Labs Plan.md"
   ]
 }
