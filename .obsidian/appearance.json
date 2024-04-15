@@ -1,5 +1,11 @@
 {
-  "accentColor": "#fde5aa",
+  "accentColor": "#e3bf64",
   "cssTheme": "AnuPpuccin",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
+  "textFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font,Segoe UI Emoji",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
