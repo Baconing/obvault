@@ -5,24 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Untitled Space Game/Story\"  ",
+      "query": "path:\"Untitled Space Game\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Untitled Space Game/Gameplay\"  ",
+      "query": "path:Journal  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:\"Untitled Space Game/Graphics\"  ",
+      "query": "path:School  ",
       "color": {
         "a": 1,
         "rgb": 11392604
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0877914951989025,
+  "scale": 0.7265251965067697,
   "close": false
 }
