@@ -11,11 +11,9 @@
             "id": "dcd851811fe7b1eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Untitled Space Game/Gameplay/Core Loop.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Work.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Space Game/Gameplay/Core Loop.md",
+                "file": "School/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Space Game/Gameplay/Core Loop.md",
+                "file": "School/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Space Game/Gameplay/Core Loop.md"
+                "file": "School/Work.md"
               }
             }
           },
@@ -166,8 +164,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a80b9b1fa05bd76",
+  "active": "dcd851811fe7b1eb",
   "lastOpenFiles": [
+    "Untitled Space Game/Gameplay/Core Loop.md",
     "Journal/Template.md",
     "yesterday's journal.md",
     "Journal/Heatmap.md",
