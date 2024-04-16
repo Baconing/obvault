@@ -55,9 +55,11 @@
             "id": "a73385b4c26669a6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "School/Work.md"
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Work.md",
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Work.md",
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Work.md"
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md"
               }
             }
           },
@@ -206,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/Work.md"
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md"
               }
             }
           }
@@ -239,15 +241,16 @@
   },
   "active": "a73385b4c26669a6",
   "lastOpenFiles": [
-    "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
+    "School/Class Plan.md",
+    "dick.md",
     "School/Work.md",
+    "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
     "Templates/Journal.md",
     "Journal/Heatmap.md",
     "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "School/AP Gov/Chapter Notes/Untitled.md",
     "Journal/2024/2024-04-16.md",
-    "School/Class Plan.md",
     "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
     "Pasted image 20240416103518.png",
