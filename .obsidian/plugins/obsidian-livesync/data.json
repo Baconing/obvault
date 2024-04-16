@@ -30,8 +30,8 @@
   "showStatusOnEditor": true,
   "showStatusOnStatusbar": true,
   "showOnlyIconsOnEditor": false,
-  "usePluginSync": false,
-  "autoSweepPlugins": false,
+  "usePluginSync": true,
+  "autoSweepPlugins": true,
   "autoSweepPluginsPeriodic": false,
   "notifyPluginOrSettingUpdated": false,
   "checkIntegrityOnSave": false,
@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%1ab24cfda2004c5478be2d2602000000bb4fd2b84b7e3c261cde43f1e7dba167cJPmECQ9mDzL5tZcVeJ88TcPAqe4oz+Lpq6jkjFZ/mCBI5jR6UWUE5bJpJD8WUjy/TxmUA6SdlI=",
-  "encryptedCouchDBConnection": "%1ab24cfda2004c5478be2d2601000000bb4fd2b84b7e3c261cde43f1e7dba167Lk4qv5KKnkudOsNv9WzsVCccpiD2lA/2tzuTXxpm03fYjySIRc6W6dsICHZZYq1/2csDSrfkNnyyZ/Yt4Elq7eqRkGOUxyZ/AvptSKcKxZpSgnuXcVElvv7wrLhc/X2PT8yMwc/ObFcsiX+VFI4/Jdt0oTaVfgrsK0kiDwWTSiJPIRVK7SbQSOU3vKt+7/jP/PC2hwX3d0CFQeAxPyDfxWeOirTWgXVKszK6wSgIDwoyTHmmqlZ9",
+  "encryptedPassphrase": "%bdc40e111565eca1dbbe27f6d1000000d3450c8c771bbcac86e1f0885b0d1987x3eYkgiSgSP8NBiv/d6V+HCYG5G7HbmNF8F3mFOaoZnKqZe0bk1HggL1rR4atbLZcnfKg4biw8k=",
+  "encryptedCouchDBConnection": "%bdc40e111565eca1dbbe27f6d0000000d3450c8c771bbcac86e1f0885b0d1987StpSFGkNW6AaDPcVwRRDzGwMxGn2sbf5TyZ3b9Zial92qpMrq5I3SMSwxf4VAIVoltSXHtDbZrfB6k3/VOyaSV5Y1TiXqm37hhVa03kZQ9qmgfdiD32RaQ7cJMHZmlli8MDhwordMXnWHCeqJ47f0wyU6l9OLe7Q6kxsjn+Y9uMCu39W1xfIOR38fdeztGpjLQ5+ynKHSphC2LEtmMyJNe5yol1p3ZgRs80Z2NIjoRYKCW+ZKMt/",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -78,7 +78,164 @@
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
   "syncOnEditorSave": false,
-  "pluginSyncExtendedSetting": {},
+  "pluginSyncExtendedSetting": {
+    "CONFIG/app.json": {
+      "key": "CONFIG/app.json",
+      "mode": 0,
+      "files": [
+        "app.json"
+      ]
+    },
+    "CONFIG/appearance.json": {
+      "key": "CONFIG/appearance.json",
+      "mode": 0,
+      "files": [
+        "appearance.json"
+      ]
+    },
+    "CONFIG/community-plugins.json": {
+      "key": "CONFIG/community-plugins.json",
+      "mode": 0,
+      "files": [
+        "community-plugins.json"
+      ]
+    },
+    "CONFIG/core-plugins-migration.json": {
+      "key": "CONFIG/core-plugins-migration.json",
+      "mode": 0,
+      "files": [
+        "core-plugins-migration.json"
+      ]
+    },
+    "CONFIG/core-plugins.json": {
+      "key": "CONFIG/core-plugins.json",
+      "mode": 0,
+      "files": [
+        "core-plugins.json"
+      ]
+    },
+    "CONFIG/daily-notes.json": {
+      "key": "CONFIG/daily-notes.json",
+      "mode": 0,
+      "files": [
+        "daily-notes.json"
+      ]
+    },
+    "CONFIG/graph.json": {
+      "key": "CONFIG/graph.json",
+      "mode": 0,
+      "files": [
+        "graph.json"
+      ]
+    },
+    "CONFIG/hotkeys.json": {
+      "key": "CONFIG/hotkeys.json",
+      "mode": 0,
+      "files": [
+        "hotkeys.json"
+      ]
+    },
+    "CONFIG/templates.json": {
+      "key": "CONFIG/templates.json",
+      "mode": 0,
+      "files": [
+        "templates.json"
+      ]
+    },
+    "CONFIG/types.json": {
+      "key": "CONFIG/types.json",
+      "mode": 0,
+      "files": [
+        "types.json"
+      ]
+    },
+    "CONFIG/workspace-mobile.json": {
+      "key": "CONFIG/workspace-mobile.json",
+      "mode": 0,
+      "files": [
+        "workspace-mobile.json"
+      ]
+    },
+    "CONFIG/workspace.json": {
+      "key": "CONFIG/workspace.json",
+      "mode": 0,
+      "files": [
+        "workspace.json"
+      ]
+    },
+    "CONFIG/workspaces.json": {
+      "key": "CONFIG/workspaces.json",
+      "mode": 0,
+      "files": [
+        "workspaces.json"
+      ]
+    },
+    "PLUGIN_DATA/calendar": {
+      "key": "PLUGIN_DATA/calendar",
+      "mode": 0,
+      "files": [
+        "plugins/calendar/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/calendar": {
+      "key": "PLUGIN_MAIN/calendar",
+      "mode": 0,
+      "files": [
+        "plugins/calendar/main.js",
+        "plugins/calendar/manifest.json"
+      ]
+    },
+    "PLUGIN_DATA/dataview": {
+      "key": "PLUGIN_DATA/dataview",
+      "mode": 0,
+      "files": [
+        "plugins/dataview/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/dataview": {
+      "key": "PLUGIN_MAIN/dataview",
+      "mode": 0,
+      "files": [
+        "plugins/dataview/main.js",
+        "plugins/dataview/manifest.json",
+        "plugins/dataview/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/floating-highlights": {
+      "key": "PLUGIN_MAIN/floating-highlights",
+      "mode": 0,
+      "files": [
+        "plugins/floating-highlights/main.js",
+        "plugins/floating-highlights/manifest.json",
+        "plugins/floating-highlights/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/heatmap-calendar": {
+      "key": "PLUGIN_MAIN/heatmap-calendar",
+      "mode": 0,
+      "files": [
+        "plugins/heatmap-calendar/main.js",
+        "plugins/heatmap-calendar/manifest.json",
+        "plugins/heatmap-calendar/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-emoji-toolbar": {
+      "key": "PLUGIN_MAIN/obsidian-emoji-toolbar",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-emoji-toolbar/main.js",
+        "plugins/obsidian-emoji-toolbar/manifest.json",
+        "plugins/obsidian-emoji-toolbar/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-excalidraw-plugin": {
+      "key": "PLUGIN_DATA/obsidian-excalidraw-plugin",
+      "mode": 0,
+      "files": [
+        "plugins/obsidian-excalidraw-plugin/data.json"
+      ]
+    }
+  },
   "syncMaxSizeInMB": 50,
   "settingSyncFile": "",
   "writeCredentialsForSettingSync": false,
