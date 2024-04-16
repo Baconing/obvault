@@ -26,9 +26,21 @@
               "type": "log-log",
               "state": {}
             }
+          },
+          {
+            "id": "22bb3e1a692ad105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a2a99ba4c384115a",
+  "active": "22bb3e1a692ad105",
   "lastOpenFiles": [
     "School/AP Gov/Chapter Notes/Untitled.md",
     "conflict-files-obsidian-git.md",
