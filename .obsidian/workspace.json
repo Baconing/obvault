@@ -225,11 +225,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,16 +253,16 @@
   },
   "active": "965082aa5fd3dc6e",
   "lastOpenFiles": [
-    "School/Work.md",
-    "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
-    "Pasted image 20240416103518.png",
+    "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
+    "Journal/2024/2024-04-16.md",
+    "School/Work.md",
+    "Pasted image 20240416103518.png",
     "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "Excalidraw/Drawing 2024-04-16 10.44.06.excalidraw.md",
     "Excalidraw",
     "School/AP Gov/APGOV Test Studying.md",
-    "Journal/2024/2024-04-16.md",
     "School/Chemistry/Acids & Bases Unit/Untitled.md",
     "School/Chemistry/Acids & Bases Unit",
     "School/AP.md",
