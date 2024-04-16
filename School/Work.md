@@ -17,7 +17,7 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] [[APGOV  Test Studying]] ^iqmamy
+- [ ] [[APGOV Test Studying]] ^iqmamy
 - [ ] APGOV: Ch 8 Notes
 
 

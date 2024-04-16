@@ -57,14 +57,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "965082aa5fd3dc6e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md"
+                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
               }
             }
           },
@@ -208,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md"
+                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
               }
             }
           }
@@ -239,17 +249,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a73385b4c26669a6",
+  "active": "965082aa5fd3dc6e",
   "lastOpenFiles": [
-    "School/Work.md",
-    "School/AP Gov/APGOV  Test Studying.md",
-    "School/AP Gov/Chapter Notes/Untitled.md",
+    "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
+    "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
+    "School/Chemistry/Acids & Bases Unit/Untitled.md",
+    "School/Chemistry/Acids & Bases Unit",
     "Journal/2024/2024-04-16.md",
+    "School/Work.md",
+    "School/AP Gov/APGOV Test Studying.md",
+    "School/AP.md",
+    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
+    "School/Chemistry",
+    "School/Untitled.md",
+    "School/AP Gov/Chapter Notes/Untitled.md",
     "Journal/Heatmap.md",
     "Journal/2024/2024-04-15.md",
     "conflict-files-obsidian-git.md",
     "Templates/Journal.md",
-    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "202404160852.md",
     "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
@@ -269,11 +286,8 @@
     "yesterday's journal.md",
     "Journal/2024",
     "Journal",
-    "Untitled Space Game/Graphics",
     "Untitled Space Game/Story/Untitled.canvas",
     "Untitled.canvas",
-    "Untitled Space Game/Gameplay",
-    "Untitled Space Game/Story.md",
-    "Canobal Labs Plan.md"
+    "Untitled Space Game/Story.md"
   ]
 }
