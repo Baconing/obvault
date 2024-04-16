@@ -10,7 +10,6 @@ kanban-plugin: basic
 - [ ] SD125: ME Essay
 - [ ] SD125: Journal
 - [ ] APGOV: Unit 5 Review
-- [ ] APGOV: Ch 8 Notes
 - [ ] APGOV: Ch 7 Notes
 - [ ] CIS105: Module Assignment
 - [ ] CIS105: Module Quiz
@@ -19,12 +18,13 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] [[APGOV  Test Studying]] ^iqmamy
-- [ ] SD125: Resume
+- [ ] APGOV: Ch 8 Notes
 
 
 ## Done
 
 **Complete**
+- [x] SD125: Resume
 
 
 ## Overdue

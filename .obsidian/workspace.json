@@ -19,11 +19,9 @@
             "id": "ad1f53adba03a512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Work.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+                "file": "School/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+                "file": "School/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/AP Gov/Chapter Notes/Chapter 8 Notes.md"
+                "file": "School/Work.md"
               }
             }
           },
@@ -165,9 +163,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "5412d15054cc5b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "School/Work.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -190,14 +198,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ad1f53adba03a512",
+  "active": "c238ad288a30aa8b",
   "lastOpenFiles": [
-    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
-    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "Journal/2024/2024-04-15.md",
-    "Templates/Journal.md",
     "School/Work.md",
     "School/AP Gov/APGOV  Test Studying.md",
+    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
+    "Templates/Journal.md",
     "School/AP Gov/Chapter Notes/Untitled.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
