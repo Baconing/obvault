@@ -55,28 +55,14 @@
             "id": "a73385b4c26669a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965082aa5fd3dc6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/2024-04-16.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Work.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024/2024-04-16.md",
+                "file": "School/Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024/2024-04-16.md",
+                "file": "School/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2024/2024-04-16.md"
+                "file": "School/Work.md"
               }
             }
           },
@@ -220,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Journal/2024/2024-04-16.md"
+                "file": "School/Work.md"
               }
             }
           }
@@ -251,15 +237,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "965082aa5fd3dc6e",
+  "active": "a73385b4c26669a6",
   "lastOpenFiles": [
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
+    "School/Work.md",
+    "Templates/Journal.md",
+    "Journal/Heatmap.md",
+    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
+    "School/AP Gov/Chapter Notes/Untitled.md",
+    "Journal/2024/2024-04-16.md",
+    "School/Class Plan.md",
     "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
-    "Journal/2024/2024-04-16.md",
-    "School/Work.md",
     "Pasted image 20240416103518.png",
-    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "Excalidraw/Drawing 2024-04-16 10.44.06.excalidraw.md",
     "Excalidraw",
     "School/AP Gov/APGOV Test Studying.md",
@@ -267,14 +258,9 @@
     "School/Chemistry/Acids & Bases Unit",
     "School/AP.md",
     "School/Chemistry",
-    "School/Untitled.md",
-    "School/AP Gov/Chapter Notes/Untitled.md",
-    "Journal/Heatmap.md",
     "Journal/2024/2024-04-15.md",
     "conflict-files-obsidian-git.md",
-    "Templates/Journal.md",
     "202404160852.md",
-    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Story/Prologue.md",

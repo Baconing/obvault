@@ -13,9 +13,8 @@
 	- Citizen for 9 years
 	- Live in state elected in
 
-|                         |       |        |
+| Characteristic          | House | Senate |
 | ----------------------- | ----- | ------ |
-|                         | House | Senate |
 | Democrat                | 195   | 48     |
 | Republican              | 240   | 52     |
 |                         |       |        |

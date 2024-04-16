@@ -21,15 +21,15 @@ kanban-plugin: basic
 - [ ] CIS105: Module Quiz
 
 
-## Done
-
-**Complete**
-
-
 ## Overdue
 
 - [ ] APCSA: 10.02 Real-World Recursion
 - [ ] English: Book Trailer
+
+
+## Done
+
+**Complete**
 
 
 ***
