@@ -10,5 +10,6 @@
   "heatmap-calendar",
   "obsidian-linter",
   "obsidian-emoji-toolbar",
-  "floating-highlights"
+  "floating-highlights",
+  "obsidian-livesync"
 ]
