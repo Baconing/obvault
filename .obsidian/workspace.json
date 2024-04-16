@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "a2a99ba4c384115a",
+            "id": "b3c3e23e4d19b010",
             "type": "leaf",
             "state": {
               "type": "log-log",
@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94b06fb60fb4085e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "22bb3e1a692ad105",
+  "active": "94b06fb60fb4085e",
   "lastOpenFiles": [
     "School/AP Gov/Chapter Notes/Untitled.md",
     "conflict-files-obsidian-git.md",
