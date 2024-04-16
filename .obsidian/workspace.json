@@ -67,9 +67,11 @@
             "id": "965082aa5fd3dc6e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Work.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Work.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           },
@@ -218,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           }
@@ -250,6 +252,7 @@
   },
   "active": "965082aa5fd3dc6e",
   "lastOpenFiles": [
+    "School/Work.md",
     "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
     "Pasted image 20240416103518.png",
@@ -261,7 +264,6 @@
     "Journal/2024/2024-04-16.md",
     "School/Chemistry/Acids & Bases Unit/Untitled.md",
     "School/Chemistry/Acids & Bases Unit",
-    "School/Work.md",
     "School/AP.md",
     "School/Chemistry",
     "School/Untitled.md",
