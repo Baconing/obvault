@@ -67,9 +67,11 @@
             "id": "965082aa5fd3dc6e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
+                "file": "Journal/2024/2024-04-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           },
@@ -218,17 +220,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +252,9 @@
   },
   "active": "965082aa5fd3dc6e",
   "lastOpenFiles": [
+    "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
-    "School/Chemistry/Acids & Bases Unit/Drawing 2024-04-16 10.27.55.excalidraw.md",
+    "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Untitled.md",
     "School/Chemistry/Acids & Bases Unit",
     "Journal/2024/2024-04-16.md",
@@ -287,7 +289,6 @@
     "Journal/2024",
     "Journal",
     "Untitled Space Game/Story/Untitled.canvas",
-    "Untitled.canvas",
-    "Untitled Space Game/Story.md"
+    "Untitled.canvas"
   ]
 }

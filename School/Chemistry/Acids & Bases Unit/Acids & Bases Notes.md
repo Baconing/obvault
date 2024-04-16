@@ -30,3 +30,18 @@ vinegar - acetic acid, $HC_2H_3O_2$, ethanoic acid, 5% dissociation
 
 all acids have hydrogen ions in them
 all bases have hydroxide ions in them
+
+
+| Binary | Ternary |
+| ------ | ------- |
+|        |         |
+
+| Formula | Name                  |
+| ------- | --------------------- |
+| H__Cl__ | hydro__clor__ic acid  |
+| H__Br__ | hydro__brom__ic acid  |
+| H__F__  | hydro__fluor__ic acid |
+
+
+See [[Balancing Example]]
+See [[Quiz Review.png]]
