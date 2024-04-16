@@ -11,22 +11,15 @@
             "id": "ca6d7cb9fd93eb90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad1f53adba03a512",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Work.md",
+                "file": "Journal/2024/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Work.md",
+                "file": "Journal/2024/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-15.md"
               }
             }
           },
@@ -170,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/Work.md"
+                "file": "Journal/2024/2024-04-15.md"
               }
             }
           }
@@ -198,22 +191,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c238ad288a30aa8b",
+  "active": "ca6d7cb9fd93eb90",
   "lastOpenFiles": [
+    "Journal/2024/2024-04-16.md",
+    "Templates/Journal.md",
     "Journal/2024/2024-04-15.md",
+    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
+    "School/AP Gov/Chapter Notes/Untitled.md",
+    "202404160852.md",
+    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
+    "Journal/Heatmap.md",
     "School/Work.md",
     "School/AP Gov/APGOV  Test Studying.md",
-    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
-    "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
-    "Templates/Journal.md",
-    "School/AP Gov/Chapter Notes/Untitled.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Story/Prologue.md",
     "Untitled Space Game/Story/Act 1.md",
     "School/AP Gov/Chapter Notes",
-    "Journal/2024/2024-04-16.md",
-    "Journal/Heatmap.md",
     "Journal/2024/2024-04-14.md",
     "Templates",
     "StarCrunch",

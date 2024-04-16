@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Journal/2024",
-      "template": "Journal/Template.md"
+      "template": "Templates/Journal.md"
     }
   ],
   "syntax_highlighting": true,
