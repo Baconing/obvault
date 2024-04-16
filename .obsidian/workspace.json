@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2a99ba4c384115a",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md",
+                "file": "Journal/2024/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           },
@@ -163,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/AP Gov/APGOV  Test Studying.md"
+                "file": "Journal/2024/2024-04-16.md"
               }
             }
           }
@@ -177,6 +186,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Show Customization sync": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -191,7 +203,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca6d7cb9fd93eb90",
+  "active": "a2a99ba4c384115a",
   "lastOpenFiles": [
     "School/AP Gov/Chapter Notes/Untitled.md",
     "conflict-files-obsidian-git.md",
