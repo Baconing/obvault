@@ -33,7 +33,7 @@
   "usePluginSync": true,
   "autoSweepPlugins": true,
   "autoSweepPluginsPeriodic": false,
-  "notifyPluginOrSettingUpdated": false,
+  "notifyPluginOrSettingUpdated": true,
   "checkIntegrityOnSave": false,
   "batch_size": 25,
   "batches_limit": 25,
@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%bdc40e111565eca1dbbe27f6d1000000d3450c8c771bbcac86e1f0885b0d1987x3eYkgiSgSP8NBiv/d6V+HCYG5G7HbmNF8F3mFOaoZnKqZe0bk1HggL1rR4atbLZcnfKg4biw8k=",
-  "encryptedCouchDBConnection": "%bdc40e111565eca1dbbe27f6d0000000d3450c8c771bbcac86e1f0885b0d1987StpSFGkNW6AaDPcVwRRDzGwMxGn2sbf5TyZ3b9Zial92qpMrq5I3SMSwxf4VAIVoltSXHtDbZrfB6k3/VOyaSV5Y1TiXqm37hhVa03kZQ9qmgfdiD32RaQ7cJMHZmlli8MDhwordMXnWHCeqJ47f0wyU6l9OLe7Q6kxsjn+Y9uMCu39W1xfIOR38fdeztGpjLQ5+ynKHSphC2LEtmMyJNe5yol1p3ZgRs80Z2NIjoRYKCW+ZKMt/",
+  "encryptedPassphrase": "%bdc40e111565eca1dbbe27f6e40200000f14b91966e6d9ffd5328393212d7560AmEOkrIc81BclBLDo6JveFYdSr5UFNFQPgPo6zT42ZHQQ2JPQW85MAcx6dbJUaWhwKjXeDvFQXA=",
+  "encryptedCouchDBConnection": "%bdc40e111565eca1dbbe27f6e30200000f14b91966e6d9ffd5328393212d7560WIWYVe5014mdlwdQUwyuxGmy82Kg0EOmeaqnTZfUHueF+29ASGxRIoUadSbfLy+dbnKltNJ5aC8YccGz3m5OsYlJ7chsigBX7QjeLmI43gvRRkmSXMIfEG1/fdU+dTk+3NUq3u2Eo6ysIcalSHJms0PXDrq85FoXBwDdYdAYkLsp+nzmPQOlTv2gci3QUWWUL6pZvVmGTOseCgsxHjYHvxBxSJbktdd022XbioazkTCrqFlQ6wH+",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -81,105 +81,105 @@
   "pluginSyncExtendedSetting": {
     "CONFIG/app.json": {
       "key": "CONFIG/app.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "app.json"
       ]
     },
     "CONFIG/appearance.json": {
       "key": "CONFIG/appearance.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "appearance.json"
       ]
     },
     "CONFIG/community-plugins.json": {
       "key": "CONFIG/community-plugins.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "community-plugins.json"
       ]
     },
     "CONFIG/core-plugins-migration.json": {
       "key": "CONFIG/core-plugins-migration.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "core-plugins-migration.json"
       ]
     },
     "CONFIG/core-plugins.json": {
       "key": "CONFIG/core-plugins.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "core-plugins.json"
       ]
     },
     "CONFIG/daily-notes.json": {
       "key": "CONFIG/daily-notes.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "daily-notes.json"
       ]
     },
     "CONFIG/graph.json": {
       "key": "CONFIG/graph.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "graph.json"
       ]
     },
     "CONFIG/hotkeys.json": {
       "key": "CONFIG/hotkeys.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "hotkeys.json"
       ]
     },
     "CONFIG/templates.json": {
       "key": "CONFIG/templates.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "templates.json"
       ]
     },
     "CONFIG/types.json": {
       "key": "CONFIG/types.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "types.json"
       ]
     },
     "CONFIG/workspace-mobile.json": {
       "key": "CONFIG/workspace-mobile.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "workspace-mobile.json"
       ]
     },
     "CONFIG/workspace.json": {
       "key": "CONFIG/workspace.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "workspace.json"
       ]
     },
     "CONFIG/workspaces.json": {
       "key": "CONFIG/workspaces.json",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "workspaces.json"
       ]
     },
     "PLUGIN_DATA/calendar": {
       "key": "PLUGIN_DATA/calendar",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/calendar/data.json"
       ]
     },
     "PLUGIN_MAIN/calendar": {
       "key": "PLUGIN_MAIN/calendar",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/calendar/main.js",
         "plugins/calendar/manifest.json"
@@ -187,14 +187,14 @@
     },
     "PLUGIN_DATA/dataview": {
       "key": "PLUGIN_DATA/dataview",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/dataview/data.json"
       ]
     },
     "PLUGIN_MAIN/dataview": {
       "key": "PLUGIN_MAIN/dataview",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/dataview/main.js",
         "plugins/dataview/manifest.json",
@@ -203,7 +203,7 @@
     },
     "PLUGIN_MAIN/floating-highlights": {
       "key": "PLUGIN_MAIN/floating-highlights",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/floating-highlights/main.js",
         "plugins/floating-highlights/manifest.json",
@@ -212,7 +212,7 @@
     },
     "PLUGIN_MAIN/heatmap-calendar": {
       "key": "PLUGIN_MAIN/heatmap-calendar",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/heatmap-calendar/main.js",
         "plugins/heatmap-calendar/manifest.json",
@@ -221,7 +221,7 @@
     },
     "PLUGIN_MAIN/obsidian-emoji-toolbar": {
       "key": "PLUGIN_MAIN/obsidian-emoji-toolbar",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/obsidian-emoji-toolbar/main.js",
         "plugins/obsidian-emoji-toolbar/manifest.json",
@@ -230,10 +230,257 @@
     },
     "PLUGIN_DATA/obsidian-excalidraw-plugin": {
       "key": "PLUGIN_DATA/obsidian-excalidraw-plugin",
-      "mode": 0,
+      "mode": 1,
       "files": [
         "plugins/obsidian-excalidraw-plugin/data.json"
       ]
+    },
+    "PLUGIN_MAIN/obsidian-excalidraw-plugin": {
+      "key": "PLUGIN_MAIN/obsidian-excalidraw-plugin",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-excalidraw-plugin/main.js",
+        "plugins/obsidian-excalidraw-plugin/manifest.json",
+        "plugins/obsidian-excalidraw-plugin/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-git": {
+      "key": "PLUGIN_DATA/obsidian-git",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-git/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-git": {
+      "key": "PLUGIN_MAIN/obsidian-git",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-git/main.js",
+        "plugins/obsidian-git/manifest.json",
+        "plugins/obsidian-git/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-icon-folder": {
+      "key": "PLUGIN_DATA/obsidian-icon-folder",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-icon-folder/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-icon-folder": {
+      "key": "PLUGIN_MAIN/obsidian-icon-folder",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-icon-folder/main.js",
+        "plugins/obsidian-icon-folder/manifest.json",
+        "plugins/obsidian-icon-folder/styles.css"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-kanban": {
+      "key": "PLUGIN_MAIN/obsidian-kanban",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-kanban/main.js",
+        "plugins/obsidian-kanban/manifest.json",
+        "plugins/obsidian-kanban/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-linter": {
+      "key": "PLUGIN_DATA/obsidian-linter",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-linter/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-linter": {
+      "key": "PLUGIN_MAIN/obsidian-linter",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-linter/main.js",
+        "plugins/obsidian-linter/manifest.json",
+        "plugins/obsidian-linter/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/obsidian-livesync": {
+      "key": "PLUGIN_DATA/obsidian-livesync",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-livesync/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/obsidian-livesync": {
+      "key": "PLUGIN_MAIN/obsidian-livesync",
+      "mode": 1,
+      "files": [
+        "plugins/obsidian-livesync/main.js",
+        "plugins/obsidian-livesync/manifest.json",
+        "plugins/obsidian-livesync/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/table-editor-obsidian": {
+      "key": "PLUGIN_DATA/table-editor-obsidian",
+      "mode": 1,
+      "files": [
+        "plugins/table-editor-obsidian/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/table-editor-obsidian": {
+      "key": "PLUGIN_MAIN/table-editor-obsidian",
+      "mode": 1,
+      "files": [
+        "plugins/table-editor-obsidian/main.js",
+        "plugins/table-editor-obsidian/manifest.json",
+        "plugins/table-editor-obsidian/styles.css"
+      ]
+    },
+    "PLUGIN_DATA/templater-obsidian": {
+      "key": "PLUGIN_DATA/templater-obsidian",
+      "mode": 1,
+      "files": [
+        "plugins/templater-obsidian/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/templater-obsidian": {
+      "key": "PLUGIN_MAIN/templater-obsidian",
+      "mode": 1,
+      "files": [
+        "plugins/templater-obsidian/main.js",
+        "plugins/templater-obsidian/manifest.json",
+        "plugins/templater-obsidian/styles.css"
+      ]
+    },
+    "THEME/AnuPpuccin": {
+      "key": "THEME/AnuPpuccin",
+      "mode": 1,
+      "files": [
+        "themes/AnuPpuccin/manifest.json",
+        "themes/AnuPpuccin/theme.css"
+      ]
+    },
+    "THEME/Minimal": {
+      "key": "THEME/Minimal",
+      "mode": 1,
+      "files": [
+        "themes/Minimal/manifest.json",
+        "themes/Minimal/theme.css"
+      ]
+    },
+    "THEME/Pink Topaz": {
+      "key": "THEME/Pink Topaz",
+      "mode": 1,
+      "files": [
+        "themes/Pink Topaz/manifest.json",
+        "themes/Pink Topaz/theme.css"
+      ]
+    },
+    "THEME/Solarized": {
+      "key": "THEME/Solarized",
+      "mode": 1,
+      "files": [
+        "themes/Solarized/manifest.json",
+        "themes/Solarized/theme.css"
+      ]
+    },
+    "THEME/Typewriter": {
+      "key": "THEME/Typewriter",
+      "mode": 1,
+      "files": [
+        "themes/Typewriter/manifest.json",
+        "themes/Typewriter/theme.css"
+      ]
+    },
+    "THEME/Ukiyo": {
+      "key": "THEME/Ukiyo",
+      "mode": 1,
+      "files": [
+        "themes/Ukiyo/manifest.json",
+        "themes/Ukiyo/theme.css"
+      ]
+    },
+    "PLUGIN_ALL/calendar": {
+      "key": "PLUGIN_ALL/calendar",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/dataview": {
+      "key": "PLUGIN_ALL/dataview",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_DATA/floating-highlights": {
+      "key": "PLUGIN_DATA/floating-highlights",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/floating-highlights": {
+      "key": "PLUGIN_ALL/floating-highlights",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_DATA/heatmap-calendar": {
+      "key": "PLUGIN_DATA/heatmap-calendar",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/heatmap-calendar": {
+      "key": "PLUGIN_ALL/heatmap-calendar",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_DATA/obsidian-emoji-toolbar": {
+      "key": "PLUGIN_DATA/obsidian-emoji-toolbar",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-emoji-toolbar": {
+      "key": "PLUGIN_ALL/obsidian-emoji-toolbar",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-excalidraw-plugin": {
+      "key": "PLUGIN_ALL/obsidian-excalidraw-plugin",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-git": {
+      "key": "PLUGIN_ALL/obsidian-git",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-icon-folder": {
+      "key": "PLUGIN_ALL/obsidian-icon-folder",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_DATA/obsidian-kanban": {
+      "key": "PLUGIN_DATA/obsidian-kanban",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-kanban": {
+      "key": "PLUGIN_ALL/obsidian-kanban",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-linter": {
+      "key": "PLUGIN_ALL/obsidian-linter",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/obsidian-livesync": {
+      "key": "PLUGIN_ALL/obsidian-livesync",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/table-editor-obsidian": {
+      "key": "PLUGIN_ALL/table-editor-obsidian",
+      "mode": 1,
+      "files": []
+    },
+    "PLUGIN_ALL/templater-obsidian": {
+      "key": "PLUGIN_ALL/templater-obsidian",
+      "mode": 1,
+      "files": []
     }
   },
   "syncMaxSizeInMB": 50,
