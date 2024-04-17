@@ -43,28 +43,12 @@
             "id": "94b06fb60fb4085e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/2024-04-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73385b4c26669a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/2024-04-17.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2024/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2024/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/2024/2024-04-17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,13 +187,19 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Journal/2024/2024-04-17.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2678a72726b35c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -236,13 +222,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "a73385b4c26669a6",
+  "active": "94b06fb60fb4085e",
   "lastOpenFiles": [
-    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "Journal/2024/2024-04-17.md",
+    "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
     "School/Class Plan.md",
     "dick.md",

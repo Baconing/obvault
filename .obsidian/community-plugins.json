@@ -11,5 +11,7 @@
   "obsidian-linter",
   "obsidian-emoji-toolbar",
   "floating-highlights",
-  "obsidian-livesync"
+  "obsidian-livesync",
+  "3d-graph",
+  "graph-analysis"
 ]

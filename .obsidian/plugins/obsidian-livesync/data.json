@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%26d7f8e150cbfbead2cb130c630100008c295ba5ef6923a202b347f5fb23d31b9EVcdIfVPVxe9vbJERHrsbci8CQnV2IWaCbX41R3sMVs4YW5cMe8dDHVQSjJLYiph+BnEyTIK+A=",
-  "encryptedCouchDBConnection": "%26d7f8e150cbfbead2cb130c620100008c295ba5ef6923a202b347f5fb23d31bD9oXVO8PB5Gc0a0GOVGb3tItcQRypO+pRC2LpDJmr5r9Orozpt8BKPyxBtc/7F3bBQsYbE3ThoeB9ycOZZH+qgGsbNBO7Yf7AUfGhK3MHD1LfJpOSaK1stbC2VSGjDLGH6dbe/Lgy/V1F34xFWYb3Ys7AAucbauu/y2QMmEDNoFcmvVnIf2nYmdUTvFUDiDfsxUnDqcT9lr3YOp8rcvqm1+IKwkBzTpup/IxsH4Ijdi8wgmWsWN+",
+  "encryptedPassphrase": "%8602c0c14728a0949c98ad8404000000ba254814c9a351fc5e53fd787b225691cDIRI0uFhTE9WL+/C+Ab8VKgaKI54soTrQ8EwisxpUT49ahvgE+l7+03I1tkEg7sSZ6jpHpAOEE=",
+  "encryptedCouchDBConnection": "%8602c0c14728a0949c98ad8403000000ba254814c9a351fc5e53fd787b225691hgVlOof0wsXhnRuUHV3MqQOOVuZNVyp8tFtfOaBXY0LvYggzFxBrKuGlg832D1b8XZizrlUsrsLM0Q1ES7xuVm/A+rufAbU2c9tOkIJv99CaLZ1D+N41hovo+mdlLGpNvjqMohbilSzp53jGyXDkMe8obNjl56hHzH/fGrul0Cki9uPm8oMhOZKelRW8/8Iu04/Kcd/Ri0Bhp3YovbR8PlfkIZSx6X0BHKUnY0fOWzw5PsSdApy2",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -481,6 +481,20 @@
       "key": "PLUGIN_ALL/templater-obsidian",
       "mode": 1,
       "files": []
+    },
+    "PLUGIN_MAIN/graph-analysis": {
+      "key": "PLUGIN_MAIN/graph-analysis",
+      "mode": 0,
+      "files": [
+        "plugins/graph-analysis/manifest.json"
+      ]
+    },
+    "PLUGIN_MAIN/3d-graph": {
+      "key": "PLUGIN_MAIN/3d-graph",
+      "mode": 0,
+      "files": [
+        "plugins/3d-graph/manifest.json"
+      ]
     }
   },
   "syncMaxSizeInMB": 50,
