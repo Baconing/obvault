@@ -11,8 +11,12 @@
             "id": "ca6d7cb9fd93eb90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2024/2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/2024/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/2024/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/2024/2024-04-17.md"
+              }
             }
           },
           {
@@ -182,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Journal/2024/2024-04-17.md"
+              }
             }
           },
           {
@@ -223,6 +233,7 @@
   },
   "active": "ca6d7cb9fd93eb90",
   "lastOpenFiles": [
+    "Journal/2024/2024-04-18.md",
     "Untitled.canvas",
     "Journal/2024/2024-04-16.md",
     "Journal/2024/2024-04-17.md",
