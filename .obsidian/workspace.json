@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2880d89e616eef",
+        "id": "3554e1e5b8e053d4",
         "type": "tabs",
         "children": [
           {
-            "id": "8be5c2929b6e61cf",
+            "id": "f1b6af0f0716a2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/English 10/Macbeth Essay - Planner.md",
+                "file": "Journal/Heatmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/English 10/Macbeth Essay - Planner.md",
+                "file": "Journal/Heatmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/English 10/Macbeth Essay - Planner.md",
+                "file": "Journal/Heatmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/English 10/Macbeth Essay - Planner.md"
+                "file": "Journal/Heatmap.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/English 10/Macbeth Essay - Planner.md"
+                "file": "Journal/Heatmap.md"
               }
             }
           },
@@ -201,30 +200,31 @@
       "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8be5c2929b6e61cf",
+  "active": "f1b6af0f0716a2dd",
   "lastOpenFiles": [
+    "School/Class Plan.md",
+    "Templates/Journal.md",
+    "Journal/2024/2024-04-18.md",
+    "Journal/Heatmap.md",
+    "Journal/2024/2024-04-17.md",
+    "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
+    "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/English 10/Macbeth Essay - Planner.md",
     "School/English 10/Macbeth Essay.md",
     "StarCrunch/Shuffled/The Card Problem.md",
-    "Journal/2024/2024-04-18.md",
     "StarCrunch/Shuffled",
-    "Journal/2024/2024-04-17.md",
-    "Templates/Journal.md",
     "Journal/2024/2024-04-16.md",
     "School/Work.md",
     "School/English 10",
     "Untitled.canvas",
     "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
-    "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
-    "School/Class Plan.md",
     "dick.md",
-    "Journal/Heatmap.md",
     "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "School/AP Gov/Chapter Notes/Untitled.md",
-    "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
     "Pasted image 20240416103518.png",
     "Excalidraw/Drawing 2024-04-16 10.44.06.excalidraw.md",
@@ -239,7 +239,6 @@
     "202404160852.md",
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
-    "Untitled Space Game/Story/Prologue.md",
     "School/AP Gov/Chapter Notes",
     "Templates",
     "StarCrunch",
