@@ -4,47 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9021a7c6c443408c",
+        "id": "3c2880d89e616eef",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6d7cb9fd93eb90",
+            "id": "8be5c2929b6e61cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/English 10/MacBeth Essay - Planner.md",
+                "file": "School/English 10/Macbeth Essay - Planner.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "22bb3e1a692ad105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2024/2024-04-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94b06fb60fb4085e",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7006a94f281832e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/English 10/MacBeth Essay - Planner.md",
+                "file": "School/English 10/Macbeth Essay - Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/English 10/MacBeth Essay - Planner.md",
+                "file": "School/English 10/Macbeth Essay - Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/English 10/MacBeth Essay - Planner.md"
+                "file": "School/English 10/Macbeth Essay - Planner.md"
               }
             }
           },
@@ -191,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/English 10/MacBeth Essay - Planner.md"
+                "file": "School/English 10/Macbeth Essay - Planner.md"
               }
             }
           },
@@ -231,20 +204,23 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ca6d7cb9fd93eb90",
+  "active": "8be5c2929b6e61cf",
   "lastOpenFiles": [
+    "School/English 10/Macbeth Essay - Planner.md",
+    "School/English 10/Macbeth Essay.md",
+    "StarCrunch/Shuffled/The Card Problem.md",
     "Journal/2024/2024-04-18.md",
-    "School/English 10/MacBeth Essay - Planner.md",
-    "School/English 10",
+    "StarCrunch/Shuffled",
     "Journal/2024/2024-04-17.md",
-    "Untitled.canvas",
+    "Templates/Journal.md",
     "Journal/2024/2024-04-16.md",
+    "School/Work.md",
+    "School/English 10",
+    "Untitled.canvas",
     "School/AP Gov/Chapter Notes/Chapter 8 Notes.md",
     "School/Chemistry/Acids & Bases Unit/Acids & Bases Notes.md",
     "School/Class Plan.md",
     "dick.md",
-    "School/Work.md",
-    "Templates/Journal.md",
     "Journal/Heatmap.md",
     "School/AP Gov/Chapter Notes/Chapter 11 Notes.md",
     "School/AP Gov/Chapter Notes/Untitled.md",
@@ -264,14 +240,11 @@
     "Untitled Space Game/Gameplay/Core Loop.md",
     "Untitled Space Game/Gameplay/Survival.md",
     "Untitled Space Game/Story/Prologue.md",
-    "Untitled Space Game/Story/Act 1.md",
     "School/AP Gov/Chapter Notes",
-    "Journal/2024/2024-04-14.md",
     "Templates",
     "StarCrunch",
     "SyncedHost",
     "Recording 20240415103105.webm",
-    "Journal/2024",
     "Untitled Space Game/Story/Untitled.canvas"
   ]
 }

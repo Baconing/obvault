@@ -2,10 +2,8 @@
 
 ---
 ### Accomplishments
-#### Tasks completed
-
-#### Tasks intended to be completed.
-
+#### Tasks
+- [ ] <% tp.file.cursor %>
 ---
 ### Reflection
 

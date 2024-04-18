@@ -11,14 +11,13 @@ kanban-plugin: basic
 - [ ] SD125: Journal
 - [ ] APGOV: Unit 5 Review
 - [ ] APGOV: Ch 7 Notes
+- [ ] [[School/English 10/Macbeth Essay]]
 
 
 ## Doing
 
 - [ ] [[APGOV Test Studying]] ^iqmamy
 - [ ] APGOV: Ch 8 Notes
-- [ ] CIS105: Module Assignment
-- [ ] CIS105: Module Quiz
 
 
 ## Overdue
@@ -30,6 +29,8 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] CIS105: Module Quiz
+- [x] CIS105: Module Assignment
 
 
 ***
