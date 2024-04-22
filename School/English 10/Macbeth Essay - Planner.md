@@ -9,6 +9,7 @@ The Tragedy of Macbeth, written by William Shakespeare, is a play focusing on Ma
 ---
 ## Body 1
 ### Reasoning
+
 ### Example 1
 #### Evidence
 #### Commentary
