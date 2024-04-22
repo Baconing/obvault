@@ -6,18 +6,19 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] SD125: ME Presentation
 - [ ] SD125: ME Essay
 - [ ] SD125: Journal
 - [ ] APGOV: Unit 5 Review
 - [ ] APGOV: Ch 7 Notes
-- [ ] [[School/English 10/Macbeth Essay]]
+- [ ] [[Chapter 9 Notes]]
 
 
 ## Doing
 
+- [ ] SD125: ME Presentation
 - [ ] [[APGOV Test Studying]] ^iqmamy
 - [ ] APGOV: Ch 8 Notes
+- [ ] [[School/English 10/Macbeth Essay]]
 
 
 ## Overdue

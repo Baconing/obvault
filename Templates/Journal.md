@@ -3,7 +3,7 @@
 ---
 ### Accomplishments
 #### Tasks
-- [ ] <% tp.file.cursor %>
+- [ ] 
 ---
 ### Reflection
 
