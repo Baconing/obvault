@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] APGOV: Unit 5 Review
 - [ ] APGOV: Ch 7 Notes
 - [ ] [[Chapter 9 Notes]]
+- [ ] APCSA Exam Review
 
 
 ## Doing
