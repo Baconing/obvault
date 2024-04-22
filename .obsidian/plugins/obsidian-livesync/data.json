@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%2bf2aad6b976fa47c1598e2d800100002df7e66c49097fe7bf2a3df9ecc33a2aaHj+0SChYWhclRkmefRkkJduWlgGeaGChxndoJEqjYiuqDKD0OSWYKyqYewtwireOcoq5/wgw0c=",
-  "encryptedCouchDBConnection": "%2bf2aad6b976fa47c1598e2d7f0100002df7e66c49097fe7bf2a3df9ecc33a2aWenTRMTq7LwOtOFZrcY6s6cHxGG4SSA+s6wWXDpFD7TMngURVM7smlwnBKw8PhL+cixETyXPxkhbDvsAhFNtZksY7jMrn28Rg+kPKl1G5wT7SQCA39gLnK0Rr3EIkOt6SflZktPNi+dUHD0GcRipnuAPSajdgPrMkbMZ3urA87+WptjjNfMuXBqcXziyxZNFY5QvdCFZ+hjoswiYr9pn5uKp3MY4u9/otDemrqD5ph74N9QuHZZc",
+  "encryptedPassphrase": "%078dd0ac6422c2560b9a5fe139000000c18c7c83e97a141745fd8348b619e97dZ5PH1/L3N63qc6MRRhG27jjdhCYfrKRf+HTnlVYLjjN2SIqSjADyYuLukeJCrn4qlV+ALUBQe+A=",
+  "encryptedCouchDBConnection": "%078dd0ac6422c2560b9a5fe138000000c18c7c83e97a141745fd8348b619e97d1CE8flVkvekxigaztqIohLHW8FitnL1GB82SZj1qBWJvUKZ2L30SpCNQYCwvnmL0gZLfThtQfWgZnAYrnqJ4ZO3s+sKw+jU2tVf74xrQatJOvHgWW4GL+Wpiz3MzPyvy29YQ8l9xX7USYaSJ1+U2Yqy1aV008eIkhPTBBmALtcLoDZ0ibf7zKjrxobs+zFxyKnO9W4qbATYbxQx2OoIfRh1Qial/AFDyjqTZgtsZ1PceWZzKNjvI",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -486,18 +486,14 @@
       "key": "PLUGIN_MAIN/graph-analysis",
       "mode": 0,
       "files": [
-        "plugins/graph-analysis/main.js",
-        "plugins/graph-analysis/manifest.json",
-        "plugins/graph-analysis/styles.css"
+        "plugins/graph-analysis/manifest.json"
       ]
     },
     "PLUGIN_MAIN/3d-graph": {
       "key": "PLUGIN_MAIN/3d-graph",
       "mode": 0,
       "files": [
-        "plugins/3d-graph/main.js",
-        "plugins/3d-graph/manifest.json",
-        "plugins/3d-graph/styles.css"
+        "plugins/3d-graph/manifest.json"
       ]
     },
     "PLUGIN_DATA/3d-graph": {
@@ -511,9 +507,7 @@
       "key": "PLUGIN_MAIN/omnisearch",
       "mode": 0,
       "files": [
-        "plugins/omnisearch/main.js",
-        "plugins/omnisearch/manifest.json",
-        "plugins/omnisearch/styles.css"
+        "plugins/omnisearch/manifest.json"
       ]
     },
     "PLUGIN_DATA/omnisearch": {
