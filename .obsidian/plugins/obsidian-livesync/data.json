@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%2bf2aad6b976fa47c1598e2d800100002df7e66c49097fe7bf2a3df9ecc33a2aaHj+0SChYWhclRkmefRkkJduWlgGeaGChxndoJEqjYiuqDKD0OSWYKyqYewtwireOcoq5/wgw0c=",
-  "encryptedCouchDBConnection": "%2bf2aad6b976fa47c1598e2d7f0100002df7e66c49097fe7bf2a3df9ecc33a2aWenTRMTq7LwOtOFZrcY6s6cHxGG4SSA+s6wWXDpFD7TMngURVM7smlwnBKw8PhL+cixETyXPxkhbDvsAhFNtZksY7jMrn28Rg+kPKl1G5wT7SQCA39gLnK0Rr3EIkOt6SflZktPNi+dUHD0GcRipnuAPSajdgPrMkbMZ3urA87+WptjjNfMuXBqcXziyxZNFY5QvdCFZ+hjoswiYr9pn5uKp3MY4u9/otDemrqD5ph74N9QuHZZc",
+  "encryptedPassphrase": "%2bf2aad6b976fa47c1598e2d840100002df7e66c49097fe7bf2a3df9ecc33a2aO3ffce17/PmkKMCefPQgXw38vETQmHRLCId97HNv6X4wDPwJCBKRRFeyl1wGAoWX2A4IRCpvIN4=",
+  "encryptedCouchDBConnection": "%2bf2aad6b976fa47c1598e2d830100002df7e66c49097fe7bf2a3df9ecc33a2a6QyvAzy1Xl52iK/4ns+v2y66fOYjcFVEj/CPRYvjXTtPYgGW6pf+IF/W30U5sTVdyeoQQ/o5MyqHKUTZZmfRIy/SKaL6fz8RAxzPOPAsZeXYf1jo9Wzm1Ot5hAVqJi8XI3u/WrkByl/HLtMrghQtMHW1q1t0IUgE+2VT+nbcQOdG8Anry0liXevbXYqKIIWsSYzgwCxAijeW2MhT+Gy8JSRMzd3+qe8LLaGyEFm9eErmKZqIeSf9",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -521,6 +521,13 @@
       "mode": 0,
       "files": [
         "plugins/omnisearch/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/chem": {
+      "key": "PLUGIN_MAIN/chem",
+      "mode": 0,
+      "files": [
+        "plugins/chem/manifest.json"
       ]
     }
   },
