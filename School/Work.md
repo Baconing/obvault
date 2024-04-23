@@ -8,9 +8,6 @@ kanban-plugin: basic
 
 - [ ] SD125: ME Essay
 - [ ] SD125: Journal
-- [ ] APGOV: Unit 5 Review
-- [ ] APGOV: Ch 7 Notes
-- [ ] [[Chapter 9 Notes]]
 - [ ] APCSA Exam Review
 
 
@@ -18,7 +15,7 @@ kanban-plugin: basic
 
 - [ ] SD125: ME Presentation
 - [ ] [[APGOV Test Studying]] ^iqmamy
-- [ ] APGOV: Ch 8 Notes
+- [ ] [[Chapter 9 Notes]]
 - [ ] [[School/English 10/Macbeth Essay]]
 
 
@@ -26,19 +23,22 @@ kanban-plugin: basic
 
 - [ ] APCSA: 10.02 Real-World Recursion
 - [ ] English: Book Trailer
+- [ ] APGOV: Ch 8 Notes
+- [ ] APGOV: Ch 7 Notes
+- [ ] APGOV: Unit 5 Review
 
 
 ## Done
 
 **Complete**
-- [x] CIS105: Module Quiz
-- [x] CIS105: Module Assignment
 
 
 ***
 
 ## Archive
 
+- [x] CIS105: Module Quiz
+- [x] CIS105: Module Assignment
 - [x] SD125: Resume
 
 %% kanban:settings

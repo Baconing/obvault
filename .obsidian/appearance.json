@@ -5,7 +5,7 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font,Noto Color Emoji",
   "textFontFamily": "JetBrainsMono Nerd Font,Noto Color Emoji",
   "monospaceFontFamily": "JetBrainsMono Nerd Font,Noto Color Emoji",
-  "baseFontSize": 14,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "nativeMenus": false
 }
