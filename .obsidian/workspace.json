@@ -11,9 +11,11 @@
             "id": "f1b6af0f0716a2dd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Quiz Review.png"
+                "file": "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
+                "file": "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
+                "file": "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Quiz Review.png"
+                "file": "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md"
               }
             }
           },
@@ -161,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School/Chemistry/Acids & Bases Unit/Quiz Review.png"
+                "file": "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md"
               }
             }
           },
@@ -172,9 +174,17 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "a9e0684c2b02efda",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -184,26 +194,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": true,
-      "obsidian-livesync:Show Customization sync": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "3d-graph:3D Graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Show Customization sync": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1b6af0f0716a2dd",
+  "active": "a9e0684c2b02efda",
   "lastOpenFiles": [
+    "Journal/2024/2024-04-24.md",
     "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md",
     "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Work.md",

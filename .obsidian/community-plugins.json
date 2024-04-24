@@ -1,23 +1,15 @@
 [
-  "obsidian-git",
+  "3d-graph",
   "table-editor-obsidian",
   "calendar",
-  "dataview",
-  "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
-  "obsidian-kanban",
   "templater-obsidian",
-  "heatmap-calendar",
-  "obsidian-linter",
-  "obsidian-emoji-toolbar",
-  "floating-highlights",
   "obsidian-livesync",
-  "3d-graph",
-  "graph-analysis",
   "omnisearch",
-<<<<<<< HEAD
-  "chem"
-=======
-  "copilot"
->>>>>>> origin/master
+  "obsidian-linter",
+  "obsidian-kanban",
+  "obsidian-icon-folder",
+  "heatmap-calendar",
+  "graph-analysis",
+  "obsidian-git",
+  "floating-highlights"
 ]
