@@ -11,5 +11,10 @@
   "heatmap-calendar",
   "graph-analysis",
   "obsidian-git",
-  "floating-highlights"
+  "floating-highlights",
+  "obsidian-excalidraw-plugin",
+  "obsidian-emoji-toolbar",
+  "dataview",
+  "copilot",
+  "chem"
 ]

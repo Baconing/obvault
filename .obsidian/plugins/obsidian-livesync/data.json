@@ -61,8 +61,8 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%2bf2aad6b976fa47c1598e2db00100002df7e66c49097fe7bf2a3df9ecc33a2aV/wYxiv2p5G3oXPLQTHbgqm75KCsx0mgYP8H0GdM1w/SViyDV/Yn2xujSfHojM5yxRGs7K+etbA=",
-  "encryptedCouchDBConnection": "%2bf2aad6b976fa47c1598e2daf0100002df7e66c49097fe7bf2a3df9ecc33a2aYQi8BVbJM4o7pFZI0vzl8nlcEeXWg4034tLbny+WmRn6SPdIsdjxHY3MDaMgUcDAhz9D17RCtlqn70iM8+hCweGL1x2P8E6evjKG4TfYkiz2U5QliqDYDtKBz5DfApDgkwbVIvzW0TPvG4lAqABcZzazFu/IPmKNaQcliXRIhc3YBZwJgUKUBhacxLh0wG3ZmYJKDqxrw5nJvqqylfIuE6wfxaCkHL4I3PtT44tbty/iLUzZ/IOk",
+  "encryptedPassphrase": "%7421515e56f5a84315975b7a080000006767307c060f8b8b55bd4154b8c456ea5Bwi1K6zCpr3o2jY9oTCSsYp3n1rXetFvHsuYFIWXvYTD4CdXrWTnaE/uL/y0S5leiv2WfH5Xds=",
+  "encryptedCouchDBConnection": "%7421515e56f5a84315975b7a070000006767307c060f8b8b55bd4154b8c456eaTbzhADoVVo/74wqb2hlb350Wkk5D7Hka/eHAQJv5OeAxIDYR1Q/2iddpvMcBgOM9aqOlhkFphq68EuoNCXvuvwsDohpVCpvDJnPSBqTPByjJ8mtZmZlEl5WVgVKSMHDIQV+77YINVDgZ9AWuTP2clF5tHnOHbtDlg6UCZbAF3dLCrd6Z8djmpdal+oZUyXYjRAlJVem5Eqt0GW/xCJLH0tbMxAODrkLR66jtQIkNNe2bH1hnWCRM",
   "permitEmptyPassphrase": false,
   "useIndexedDBAdapter": true,
   "useTimeouts": false,
@@ -486,18 +486,14 @@
       "key": "PLUGIN_MAIN/graph-analysis",
       "mode": 0,
       "files": [
-        "plugins/graph-analysis/main.js",
-        "plugins/graph-analysis/manifest.json",
-        "plugins/graph-analysis/styles.css"
+        "plugins/graph-analysis/manifest.json"
       ]
     },
     "PLUGIN_MAIN/3d-graph": {
       "key": "PLUGIN_MAIN/3d-graph",
       "mode": 0,
       "files": [
-        "plugins/3d-graph/main.js",
-        "plugins/3d-graph/manifest.json",
-        "plugins/3d-graph/styles.css"
+        "plugins/3d-graph/manifest.json"
       ]
     },
     "PLUGIN_DATA/3d-graph": {
@@ -511,9 +507,7 @@
       "key": "PLUGIN_MAIN/omnisearch",
       "mode": 0,
       "files": [
-        "plugins/omnisearch/main.js",
-        "plugins/omnisearch/manifest.json",
-        "plugins/omnisearch/styles.css"
+        "plugins/omnisearch/manifest.json"
       ]
     },
     "PLUGIN_DATA/omnisearch": {
@@ -535,6 +529,15 @@
       "mode": 0,
       "files": [
         "plugins/chem/data.json"
+      ]
+    },
+    "PLUGIN_MAIN/copilot": {
+      "key": "PLUGIN_MAIN/copilot",
+      "mode": 0,
+      "files": [
+        "plugins/copilot/main.js",
+        "plugins/copilot/manifest.json",
+        "plugins/copilot/styles.css"
       ]
     }
   },
