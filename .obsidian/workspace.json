@@ -193,6 +193,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -211,10 +213,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9e0684c2b02efda",
+  "active": "f1b6af0f0716a2dd",
   "lastOpenFiles": [
-    "Journal/2024/2024-04-24.md",
+    "Journal/2024/2024-05-01.md",
     "School/Chemistry/Organic Chemistry/Organic Chemistry Notes.md",
+    "Journal/2024/2024-04-24.md",
     "School/Chemistry/Acids & Bases Unit/Quiz Review.png",
     "School/Work.md",
     "School/English 10/Macbeth Essay.md",
@@ -243,7 +246,6 @@
     "Untitled.canvas",
     "dick.md",
     "School/AP Gov/Chapter Notes/Untitled.md",
-    "School/Chemistry/Acids & Bases Unit/Balancing Example.md",
     "Pasted image 20240416103518.png",
     "Excalidraw",
     "School/Chemistry/Acids & Bases Unit",
